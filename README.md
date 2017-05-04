@@ -14,6 +14,8 @@ Install Tensorflow:
 Install Keras:
 
 `pip install keras`
+
 `pip install ipython`
+
 `pip install gensim==0.13.2`
 
